@@ -23,3 +23,12 @@ Citation: “World Bank. 2021. Women, Business and the Law 2021. Washington, DC:
 
 2. GDP per capita (current US$)
 Citation: “World Bank national accounts data, and OECD National Accounts data files. License: Creative Commons Attribution CC BY-4.0.”
+
+## Project Deliverables
+
+1. Women, Business and the Law 
+Citation: “World Bank. 2021. Women, Business and the Law 2021. Washington, DC: World Bank. doi:10.1596/978-1-4648-1652-9. License: Creative Commons Attribution CC BY 3.0 IGO.”
+
+2. GDP per capita (current US$)
+Citation: “World Bank national accounts data, and OECD National Accounts data files. License: Creative Commons Attribution CC BY-4.0.”
+
