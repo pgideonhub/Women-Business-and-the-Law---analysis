@@ -21,7 +21,7 @@ To examine the legal status of women worldwide and the changes in status over th
 1. ["Women, Business and the Law Original opensource dataset"](https://wbl.worldbank.org/en/past-reports)
 Citation: “World Bank. 2021. Women, Business and the Law 2021. Washington, DC: World Bank. doi:10.1596/978-1-4648-1652-9. License: Creative Commons Attribution CC BY 3.0 IGO.”
 
-2. GDP per capita (current US$)
+2. ["GDP per capita (current US$)"](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
 Citation: “World Bank national accounts data, and OECD National Accounts data files. License: Creative Commons Attribution CC BY-4.0.”
 
 ## Project Deliverables
