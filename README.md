@@ -1,8 +1,6 @@
 # women_business_and_the_law-analysis
 
-![image](https://user-images.githubusercontent.com/123508601/214716103-7fbe3dd9-9301-4242-87c2-df8b92c954ae.png)
-
-Instacart is an online grocery store that operates through an app.
+![image](https://user-images.githubusercontent.com/123508601/224434350-74fbfd55-0f8c-435f-a542-5f6ae8019399.png)
 
 ## Overview
 
