@@ -1,6 +1,6 @@
 # women_business_and_the_law-analysis
 
-![WBL2021-Coversmall](https://user-images.githubusercontent.com/123508601/224435219-28147564-c34e-41d5-b205-bafbfb8ee775.png)
+![WBL2021-Coversmall](https://user-images.githubusercontent.com/123508601/224435464-0c326bb6-6480-4809-a5ce-5f931787dcb6.png)
 
 ## Overview
 
