@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/123508601/224434350-74fbfd55-0f8c-435f-a542-5f6ae8019399.png)
 
-## Overview
+## Overview![WBL2021-Coversmall](https://user-images.githubusercontent.com/123508601/224435219-28147564-c34e-41d5-b205-bafbfb8ee775.png)
+
 
 The World Bank uses feedback from over 2000 experts in family, labour and criminal law, as well as members of civil society organizations working on gender issues, to construct the ‘Women, Business and the Law’ (WBL) Index. 
 
